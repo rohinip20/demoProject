@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24584" started-at="2018-11-26T05:03:31Z" finished-at="2018-11-26T05:03:55Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24584" started-at="2018-11-26T05:03:31Z" finished-at="2018-11-26T05:03:55Z">
+      <class name="myapp.mercuryToursDemo">
+        <test-method status="PASS" signature="Open_browser()[pri:0, instance:myapp.mercuryToursDemo@27f674d]" name="Open_browser" is-config="true" duration-ms="5420" started-at="2018-11-26T05:03:25Z" finished-at="2018-11-26T05:03:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_browser -->
+        <test-method status="PASS" signature="EnterApplicationURL()[pri:0, instance:myapp.mercuryToursDemo@27f674d]" name="EnterApplicationURL" is-config="true" duration-ms="10460" started-at="2018-11-26T05:03:31Z" finished-at="2018-11-26T05:03:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterApplicationURL -->
+        <test-method status="PASS" signature="Maximize_browser()[pri:1, instance:myapp.mercuryToursDemo@27f674d]" name="Maximize_browser" duration-ms="1334" started-at="2018-11-26T05:03:41Z" finished-at="2018-11-26T05:03:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Maximize_browser -->
+        <test-method status="PASS" signature="LoginwithValiddetails()[pri:2, instance:myapp.mercuryToursDemo@27f674d]" name="LoginwithValiddetails" duration-ms="12733" started-at="2018-11-26T05:03:42Z" finished-at="2018-11-26T05:03:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginwithValiddetails -->
+        <test-method status="PASS" signature="Close_browser()[pri:0, instance:myapp.mercuryToursDemo@27f674d]" name="Close_browser" is-config="true" duration-ms="499" started-at="2018-11-26T05:03:55Z" finished-at="2018-11-26T05:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_browser -->
+      </class> <!-- myapp.mercuryToursDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
